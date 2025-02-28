@@ -1,0 +1,19 @@
+Example 1: Square Root Calculation
+-----------------------------------
+Input: -16
+Output: Error: Cannot calculate the square root of a negative number.
+
+Example 2: ATM Withdrawal
+-------------------------
+Input:
+Enter PIN: 1234
+Withdraw Amount: 5000
+Output: Error: Insufficient balance. Current Balance: 3000
+
+Example 3: University Enrollment
+--------------------------------
+Input:
+Enroll in Course: Advanced Java
+Prerequisite: Core Java
+Status: Prerequisite not completed
+Output: Error: PrerequisiteNotMetException - Complete Core Java before enrolling in Advanced Java.
